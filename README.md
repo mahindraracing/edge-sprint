@@ -37,7 +37,7 @@
 <li>1x Resistor 1k</li>
 
 
-## Explicando o <a href="https://github.com/mahindraracing/edge-sprint/blob/main/main.c">Código</a>
+## Explicando o <a href="https://github.com/mahindraracing/edge-sprint/blob/main/main.cpp">Código</a>
 
 ## 1. Inclusão de Bibliotecas e Definição de Pinos
 
